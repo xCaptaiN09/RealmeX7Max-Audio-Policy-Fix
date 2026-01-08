@@ -1,0 +1,6 @@
+id=rmx3031_audio_policy_fix
+name=Realme X7 Max Audio Policy Fix
+version=v1.0
+versionCode=1
+author=xCaptaiN09
+description=Official RMX3031 Audio Policy + Smart Watchdog. Fixes USB DAC routing and pause death.
